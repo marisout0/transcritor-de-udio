@@ -4,7 +4,7 @@ Este projeto utiliza o modelo **Whisper da OpenAI** rodando no Google Colab para
 
 ##  Como Usar
 1. Clique no botão abaixo para abrir o script:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/transcritor_whisper.ipynb)
+[![Open In Colab] (https://github.com/marisout0/transcritor-de-udio/blob/main/transcritor_whisper.ipynb)
 
 2. No menu do Colab, vá em **Ambiente de execução** > **Alterar tipo de ambiente de execução** e selecione **T4 GPU**.
 3. Rode a primeira célula para instalar as ferramentas.
